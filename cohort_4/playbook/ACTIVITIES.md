@@ -6,7 +6,7 @@
     - [Breakfast](#breakfast)
     - [Lunch](#lunch)
 - [Workshops](#workshops)
-    - [[Portfolio](workshops/portfolio)](#portfolioworkshopsportfolio)
+    - [Portfolio](#portfolio)
         - [Prerequisites](#prerequisites)
         - [Running it](#running-it)
     - [Maestro](#maestro)
@@ -92,7 +92,10 @@ then).
 
 # Workshops
 
-## [Portfolio](workshops/portfolio)
+## Portfolio
+
+### Links
+[Link to workshop](workshops/portfolio)
 
 ### Prerequisites
 
@@ -100,29 +103,45 @@ then).
 
 ### Running it
 
-- talk about the ratio / schedule of workshops to projects (to illustrate the point that we are only doing these workshops to give you experience to work on your own projects)
-- today you're going to learn how to build a very basic website and learn about the fundamentals of building a website
+#### Workshops in General
+- talk about the ratio / schedule of workshops to projects (to illustrate the
+  point that we are only doing these workshops to give you experience to work
+  on your own projects)
+- today you're going to learn how to build a very basic website and learn
+  about the fundamentals of building a website
 - the website we are learning to emulate [looks like this](https://rawgit.com/hackedu/hack-camp/20618752b7afa95bbbc5c5ba80c17874ec5e0a35/cohort_4/playbook/workshops/portfolio/src/final_portfolio/index.html)
 - you will be making a simpler version of that
-- some of you already have a lot of experience with HTML & CSS
-  - feel free to skim through or skip the guide and try to emulate the website or work on making a more complex or different website
-  - also fee free to use your own IDEs
+  - pull up the screenshot on the readme page of the simpler version
+
+#### Freedom
+- some of you already have a lot of experience with HTML & CSS. You can choose
+  to
+  - skim through this tutorial
+  - try to just go for building the final result
+  - work on making a more complex or different website
+  - also feel free to use your own IDEs
+  - you can treat this like a hackathon.
+  - I'm going to go through the basics of HTML, CSS, and JS now, so feel free
+    to start working on your projects.
 - Give a brief overview of HTML, CSS and JS
   - There are 3 components to a webpage
     - HTML, CSS, and Javascript
   - HTML is for the Data
   - CSS is for the look and feel
   - Javascript is for interactivity
+- Demo difference
   - Open up Facebook
-    - This website has all 3
-    - Open the chrome console, delete the head tag (which deletes the styles)
-      - This is what a page looks like without CSS
-    - These are the two we're focusing on Today
-- Paste link to workshop.
-  - Here is the link to the workshop
-  - Talk about how it's important to ask for help
+      - This website has all 3
+      - Open the chrome console, delete the head tag (which deletes the styles)
+        - This is what a page looks like without CSS
+      - These are the two we're focusing on today
+  - Paste [link to workshop](workshops/portfolio) in the IRC
+  - Talk about how it's important to ask for help and why
     - From facilitators
     - From your peers
+    - talk about how facilitators may defer you to your peers and why
+      - because after hack camp, facilitators won't be around and we want to 
+        prepare you for that.
     - Encourage collaboration
 
 ## Maestro
