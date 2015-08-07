@@ -704,6 +704,15 @@ doing one of the following:
   don't want to baby you so we won't remind you.
 - Something else that works best for you.
 
+## How to avoid coerciveness
+
+- Instead of saying "you should be doing this" and "you should be watching
+  out for this". Consider saying, if I was in your shows, I would strongly
+  encourage sfailure.
+- Instead of saying, "you should totally get it noew", it can be useful for you
+  to listen to the put the first person: "I do this because it's really helpful
+  to me and it has all of these benefits"
+  
 ## [Portfolio](workshops/portfolio)
 
 ### Prerequisites
