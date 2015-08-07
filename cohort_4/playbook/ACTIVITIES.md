@@ -353,13 +353,13 @@ will each share our own views and opinions.
 ## Why is programming awesome?
 
 - Make School Founder Jeremy Rossman had a really inspirational speech
-- The smartphone in your pocket is more powerful than the computer we used to
+- The smart phone in your pocket is more powerful than the computer we used to
   send a human to the moon.
-- 30 years ago, our smartphones would have been considered more powerful than a
+- 30 years ago, our smart phones would have been considered more powerful than a
   super computer.
 - 30 years before that it would have been considered magic.
 - If you walked around in the early 20th century with an iPhone, people would
-  think you could weild magic.
+  think you could wield magic.
 - And in a world where magic exists, there are people who know how to use magic,
   and then there are muggles.
 - You want to be in category A.
@@ -371,9 +371,9 @@ will each share our own views and opinions.
 - There are industries that are radically changed by these devices every year
 - If you were the king of the Roman Empire in 25, you would have ruled over 56.8
   million people
-- By 2016, 2 billion consumers will have smartphones
-- And you, if you can learn to weild magic, just sitting in your underwear in
-  your bedroom, can create expreinces that impact 2 billion lives.
+- By 2016, 2 billion consumers will have smart phones
+- And you, if you can learn to wield magic, just sitting in your underwear in
+  your bedroom, can create experiences that impact 2 billion lives.
 
 ### Our objective running Hack Camp.
 
@@ -405,19 +405,19 @@ Let's take a look at sports for a second.
 
 Yeah, when I'm out of breath and my muscles start burning.
 
-*Should I exercise as much as an olympic athele?*
+*Should I exercise as much as an Olympic athlete?*
 
 > Wait
 
 No, of course not, I can barely run `insert how much you actually run` right
 now. I might actually die if I did that.
 
-*Should the exercise an olympic athelte does be easy for them?*
+*Should the exercise an Olympic athlete does be easy for them?*
 
 No of course not. They should be equally as out of breath and having their
 muscles burned if not more.
 
-*So why are olympic atheletes more fit than me? Are they just born more fit?*
+*So why are Olympic athletes more fit than me? Are they just born more fit?*
 
 > Wait for response
 
@@ -462,8 +462,8 @@ If I were to say, "Yeah, I'm not that good with girls and I'm not that good with
 boys either, you believe that your ability with men or women is fixed."
 
 If you had a growth mindset about math, you might instead say "I'm not that good
-at math right now because I havn't spent too much time practicing it because I'm
-not too intrested in it"
+at math right now because I haven't spent too much time practicing it because I'm
+not too interested in it"
 
 If you had a growth mindset about art, you might say that I don't really have
 too much experience in art right now so I'm pretty bad at it but I'm actually
