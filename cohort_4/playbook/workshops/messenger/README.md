@@ -4,7 +4,7 @@ In this workshop, we will be looking more in depth at the Instagram workshop
 and then building a Messenger app using our knowledge of how we built the
 Instagram app.
 
-Click [here](https://github.com/hackedu/hack-camp/blob/master/cohort_4/playbook/workshops/messenger/README.md#understanding-the-instagram-workshop) for reference to the Instagram workshop.
+Click [here](#understanding-the-instagram-workshop) for reference to the Instagram workshop.
 
 [See the live demo of the messenger application: ](https://rawgit.com/hackedu/hack-camp/50b54d2436ff15679735ca5c8c50d7ee2ff7b744/cohort_4/playbook/workshops/messenger/src/index.html)
 
