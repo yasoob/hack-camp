@@ -59,14 +59,14 @@ Moreover, to make this first iteration even smaller, I'll only make the "about m
 3. write the CSS
 4. ...
 
-Copy and past the text from Alice's website. 
+Copy and past the text from Alice's website.
 
 **JS Bin**
 
 - [See in JS Bin.](http://jsbin.com/sofuzo/1/edit?html,output)
 
 **Preview:**
-![](http://i.imgur.com/NzrSXCG.png)
+![](https://i.imgur.com/NzrSXCG.png)
 
 **HTML:**
 
@@ -87,7 +87,7 @@ Copy and past the text from Alice's website.
 ```
 
 b. Categorize your text into sections.
- 
+
 **JS Bin**
 
 - [See in JS Bin.](http://jsbin.com/sofuzo/2/edit?html,output)
@@ -97,11 +97,11 @@ b. Categorize your text into sections.
 ```html
 ...
   <!--MAIN HEADING-->
-    - By Alice Lee 
+    - By Alice Lee
 
   <!--SUB HEADING-->
   - illustration, brand, letters
- 
+
   <!--DESCRIPTION PARAGRAPHS-->
   - Hi! I am a SF-based illustrator and recovering biz school graduate who has drawn for The New York Times, Google, Sequoia Capital, Venmo, etc.
   - Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox. LEARN MORE →
@@ -123,7 +123,7 @@ b. Categorize your text into sections.
 
 **Preview:**
 
-![](http://i.imgur.com/okxszvu.png)
+![](https://i.imgur.com/okxszvu.png)
 
 **HTML:**
 
@@ -134,7 +134,7 @@ b. Categorize your text into sections.
 
   <!--SUB HEADING-->
   <h2> illustration, brand, letters </h2>
- 
+
   <!--DESCRIPTION PARAGRAPHS-->
   <p> Hi! I am a SF-based illustrator and recovering biz school graduate who has drawn for The New York Times, Google, Sequoia Capital, Venmo, etc.</p>
   <p>Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox. LEARN MORE → </p>
@@ -147,7 +147,7 @@ b. Categorize your text into sections.
 1. ~~write the text I want~~
 2. ~~transform it into HTML~~
 3. write the CSS
-	2. style the title 
+	2. style the title
 	3. style the subtitle
 	4. style the description <––
 	2. make the links
@@ -159,7 +159,7 @@ b. Categorize your text into sections.
 
 **Preview:**
 
-![](http://i.imgur.com/2QjulPo.png)
+![](https://i.imgur.com/2QjulPo.png)
 
 **HTML:**
 
@@ -168,11 +168,11 @@ b. Categorize your text into sections.
   <!--MAIN HEADING-->
   <h1 class="name"> By Alice Lee </h1>
 	<!-- NEW ^ -->
-	 
+
   <!--SUB HEADING-->
   <p class="subtitle"> illustration, brand, letters </p>
    <!-- NEW ^ -->
-  
+
   <!--DESCRIPTION PARAGRAPHS-->
   <p class="description"> Hi! I am a SF-based illustrator and recovering biz school graduate who has drawn for The New York Times, Google, Sequoia Capital, Venmo, etc.</p>
   <p class="description">Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox. LEARN MORE →     </p>
@@ -217,14 +217,13 @@ body {
 	4. make the links <––
 	6. I'll add more later
 
-
 **JS Bin**
 
 - [See in JS Bin](http://jsbin.com/sofuzo/5/edit)
 
 **Preview:**
 
-![](http://i.imgur.com/rKXwuEX.png)
+![](https://i.imgur.com/rKXwuEX.png)
 
 **HTML:**
 
@@ -235,7 +234,7 @@ body {
   	Hi! I am a SF-based illustrator and recovering biz school graduate who has drawn for The New York Times, Google, Sequoia Capital, Venmo, etc.
   </p>
   <p class="description">
-    Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox. 
+    Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox.
     <a href="http://byalicelee.com/about/">LEARN MORE →</a> <!-- NEW -->
   </p>
 ...
@@ -273,26 +272,26 @@ a {
 
 **Preview:**
 
-![](http://i.imgur.com/3fmqekN.png)
+![](https://i.imgur.com/3fmqekN.png)
 
 **HTML:**
 
 ```html
 ...
 <body>
-  
+
   <div class="container"> <!-- NEW -->
-    
+
     <h1 class="name"> By Alice Lee </h1>
     <p class="subtitle"> illustration, brand, letters </p>
     <p class="description"> Hi! I am a SF-based illustrator and recovering biz school graduate who has drawn for The New York Times, Google, Sequoia Capital, Venmo, etc.</p>
     <p class="description">
-      Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox. 
+      Previously, I was a designer & illustrator at Dropbox where I worked on the core Dropbox product, Carousel, and Mailbox.
 	  <a href="http://byalicelee.com/about/">LEARN MORE →</a>
     </p>
-    
+
   </div> <!-- NEW -->
-    
+
 </body>
 ...
 ```
@@ -319,7 +318,6 @@ body {
 
 ```
 
-
 ## Tweak CSS
 
 > #### Iterations:
@@ -331,7 +329,7 @@ body {
 	3. ~~style the description~~
 	4. ~~make the links~~
 	7. ~~center the page~~
-	8. I'll add more later 
+	8. I'll add more later
 	9. tweak CSS <–– JUST ADDED
 	10. add my own text
 
@@ -341,7 +339,7 @@ body {
 
 **Preview:**
 
-![](http://i.imgur.com/IY7khhy.png)
+![](https://i.imgur.com/IY7khhy.png)
 
 **HTML:** *Unchanged*
 
@@ -363,7 +361,6 @@ body {
   letter-spacing: 4px; /*Decreased for aesthetics*/
   ...
 }
-
 
 .subtitle {
   ...
@@ -404,14 +401,13 @@ a {
 	9. ~~tweak CSS~~
 	10. add my own text <––
 
-**JS Bin:** 
+**JS Bin:**
 
 - [Link](http://jsbin.com/sofuzo/12/edit?html,css,output)
 
-
 **Preview:**
 
-![](http://i.imgur.com/nqURZSw.png)
+![](https://i.imgur.com/nqURZSw.png)
 
 **HTML:**
 

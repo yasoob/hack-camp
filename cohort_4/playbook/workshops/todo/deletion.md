@@ -7,7 +7,7 @@ For a given task, when we click on the delete button, we want that item
 1. Removed from the screen
 2. Removed from the database
 
-Let's build the scooter first and make it when you click the delete button, it displays an alert
+Let's build it so when you click the delete button, it displays an alert.
 
 ## Clicking on the delete button
 
@@ -28,7 +28,7 @@ function addNewTask(taskName) { // <-- CHANGE
   li.appendChild(span);
 
   var img = document.createElement("img");
-  img.src = "http://i.imgur.com/BtLxCD6.png"
+  img.src = "https://i.imgur.com/BtLxCD6.png"
   img.setAttribute("class", "delete");
   li.appendChild(img);
 
@@ -40,8 +40,8 @@ function addNewTask(taskName) { // <-- CHANGE
 ```
 
 ```
-Check Point!  
-Time        __
+Checkpoint Time!  
+            __
            / _)
     .-^^^-/ /
  __/       /
@@ -53,10 +53,10 @@ Try seeing if you can make an alert popup when you click the delete button
 
 ## Removing the element from the page
 
-Ok, so instead of an alert, lets see if we can write some code that removes the
-item from the screen (and not yet firebase).
+Ok, so instead of an alert, let's see if we can write some code that removes the
+item from the screen (but not Firebase just yet).
 
-So in order to delete yourself, you must say `parent.removeChild(childElement)`
+So in order to delete the element, you must say `parent.removeChild(childElement)`
 
 Therefore inside of the `img.onclick function`, we have to somehow find a way
 to access the parent. Turns out that we can refer to the image itself that we
@@ -76,7 +76,7 @@ img.onclick = function() {
 }
 ```
 
-<div style="padding-left: 10px; padding-right: 10px; background-color: #EEE;"><div style="display: inline-block;">![](http://i.imgur.com/wd2Ac0Q.png)</div><div style="display: inline-block;"><p style="position: relative; top: 22px; left: 8px;">
+<div style="padding-left: 10px; padding-right: 10px; background-color: #EEE;"><div style="display: inline-block;">![](https://i.imgur.com/wd2Ac0Q.png)</div><div style="display: inline-block;"><p style="position: relative; top: 22px; left: 8px;">
 ***Give this a shot but this is kinda really confusing so please ask for help!***</p>  
 </div></div>
 
@@ -107,7 +107,7 @@ For us, we need to somehow remember what the key is for every task. We can do th
 <li key="-Oe9fo8jslkfeddm">
   <input class="toggle" type="checkbox">
   <span>Take out the trash</span>
-  <img class="delete" src="http://i.imgur.com/BtLxCD6.png">
+  <img class="delete" src="https://i.imgur.com/BtLxCD6.png">
 </li>
 
 ```
@@ -141,7 +141,7 @@ window.onload = function() {
     li.appendChild(span);
 
     var img = document.createElement("img");
-    img.src = "http://i.imgur.com/BtLxCD6.png"
+    img.src = "https://i.imgur.com/BtLxCD6.png"
     img.setAttribute("class", "delete");
     li.appendChild(img);
 

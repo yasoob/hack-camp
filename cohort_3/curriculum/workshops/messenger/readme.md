@@ -54,7 +54,6 @@ Given a a single number, it outputs the square of that number.
 | what is the output of `g(5)` equal to?       | `10`     |
 | what is the type of the output?              | `number` |
 
-
 **In general, what does the function `f` do?**: 
 
 Given a single number, it outputs double of the original number.
@@ -510,12 +509,12 @@ A note on terminology:
 
 stars (*) surround relevant vocabulary like *this*
 
-img.src = "http://i.imgur.com/qqHJgeR.jpg"
+img.src = "https://i.imgur.com/qqHJgeR.jpg"
     ^ by setting the src *property* of the image element object
     
 the browser adds the "src" *attribute* 
-<img src="http://i.imgur.com/qqHJgeR.jpg">
-     ^ this is the source *attribute* which has the *value* of "http://i.imgur.com/qqHJgeR.jpg"
+<img src="https://i.imgur.com/qqHJgeR.jpg">
+     ^ this is the source *attribute* which has the *value* of "https://i.imgur.com/qqHJgeR.jpg"
 ```
 
 ![](http://classic.cloversites.com/images/html-version/shared/try-it-out-button.gif)

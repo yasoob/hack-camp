@@ -78,7 +78,7 @@ create what's missing and not be afraid to break the status quo.</p>
   <!-- PORTFOLIO -->
   
     <!-- IMAGE SECTION -->
-      - http://i.imgur.com/vS0HhER.jpg
+      - https://i.imgur.com/vS0HhER.jpg
   
     <!-- INFORMATION SECTION -->
       <h1>Jonathan Leung</h1>
@@ -86,7 +86,6 @@ create what's missing and not be afraid to break the status quo.</p>
       <p>I want show people that the world is malleable. I want them to know 
       they can create what's missing and not be afraid to break the status quo.</p>
       <!--============END_CHANGES============-->          
-
 
     <!-- SOCIAL MEDIA SECTION -->
       - link to Facebook (https://facebook.com/jonleung137)

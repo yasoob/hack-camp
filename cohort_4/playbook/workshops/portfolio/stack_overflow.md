@@ -1,6 +1,5 @@
 ## Understanding Stack Overflow
 
-
 Stack overflow is a great Q&A resource that almost every programmer I (Jonathan) knows uses. Whenever I see a Stack Overflow result in my Google search, there is a high likelyhood I may open that result first. Here is one helpful way I've found to understand Q&A type sites like Stack Overflow
 
 **This is a brief digression into how you might go about interpreting Q&A type sites like Stack Overflow.**
@@ -57,7 +56,7 @@ document.getElementById('button').onclick = function() {
 };
 ```
 
-[![](http://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1)
+[![](https://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1)
 
 #### Step 4: Cleaning Up For Understanding
 
@@ -77,7 +76,7 @@ document.getElementById('button').onclick = function() {
 };
 ```
 
-[![](http://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1609/)
+[![](https://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1609/)
 
 ##### Step 5: Tinkering for Understanding
 

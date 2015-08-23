@@ -5,6 +5,8 @@
     - [On the First Day](#on-the-first-day)
 - [Energizers](#energizers)
     - [Bad startup ideas](#bad-startup-ideas)
+    - [Card on Your Head](#card-on-your-head)
+    - [Duck, Duck, Goose](#duck-duck-goose)
     - [Evolution Rock Paper Scissors](#evolution-rock-paper-scissors)
     - [Human Knot](#human-knot)
     - [Human Pictionary](#human-pictionary)
@@ -13,7 +15,10 @@
     - [Ninja](#ninja)
     - [One Word Radio](#one-word-radio)
     - [Sharks and Minnows](#sharks-and-minnows)
+    - [Two Truths and a Lie](#two-truths-and-a-lie)
+    - [Pterodactyl](#pterodactyl)
     - [Where The West Wind Blows](#where-the-west-wind-blows)
+    - [Zip Zap Zop](#zip-zap-zop)
 - [Introduction talk](#introduction-talk)
     - [Speaking from personal experience.](#speaking-from-personal-experience)
     - [Why is programming awesome?](#why-is-programming-awesome)
@@ -31,10 +36,14 @@
 - [Pairing Guidelines](#pairing-guidelines)
     - [Spreadsheet Creation](#spreadsheet-creation)
     - [Compatibility and Uniqueness](#compatibility-and-uniqueness)
+    - [Types of Pairing](#types-of-pairing)
+        - [Pair programming between beginner-advanced pairs](#pair-programming-between-beginner-advanced-pairs)
 - [Workshops](#workshops)
     - [General Guidelines](#general-guidelines)
         - [Breaks](#breaks)
-    - [[Portfolio](workshops/portfolio)](#portfolioworkshopsportfolio)
+        - [Checking In To Every Hacker](#checking-in-to-every-hacker)
+        - [Driving People to their Maximal Potential](#driving-people-to-their-maximal-potential)
+    - [Portfolio](#portfolio)
         - [Prerequisites](#prerequisites)
         - [Running it](#running-it)
     - [Maestro](#maestro)
@@ -61,6 +70,8 @@
     - [First-time demos](#first-time-demos)
     - [Giving feedback](#giving-feedback)
 - [Freeform Projects](#freeform-projects)
+    - [Scheduling](#scheduling)
+    - [Role Of The Organizer](#role-of-the-organizer)
     - [Scoping and concept](#scoping-and-concept)
     - [Engagement](#engagement)
     - [Facilitating](#facilitating)
@@ -163,6 +174,41 @@ will be a startup.
 > someone else on team B: I am a hot single dog and beta tester
 > team B: We're here to tell you about the next big thing... tinder for dogs
 > ~pitching continues for 3 minutes
+
+## Card on Your Head
+
+```
+Time: 10 minutes
+Materials: Enough space for the hackers to walk around
+Number: 6 players and up
+```
+
+One hacker is given a card (realistically, a sticky note) with a noun written on
+it (duck, cat, Kung Fury, Zach Latta, etc.); said hacker cannot read the card
+and must stick it to their forehead. The other hackers must then do their best
+to describe the noun, while the hacker with the card on their head guesses at
+what's written on it. In case of big groups, divide the hackers into two groups.
+
+## Duck, Duck, Goose
+
+```
+Time: 10 minutes
+Materials: Lots of floor space for running
+Number: 4 players and up
+```
+
+It may be a children's game, but who says that we can't do it too.
+
+From the
+[Wikipedia entry on Duck, duck, goose](https://en.wikipedia.org/wiki/Duck,_duck,_goose):
+
+> A group of players sit in a circle, facing inward, while another player, who
+> is "it", walks around tapping or pointing to each player in turn, calling each
+> a "duck" until finally calling one a "goose". The "goose" then rises and tries
+> to tag "it", while "it" tries to return to and sit where the "goose" had been
+> sitting. If "it" succeeds, the "goose" becomes "it" and the process begins
+> again. If the "goose" tags "it", the "goose" may return to sit in the previous
+> spot and "it" resumes the process.
 
 ## Evolution Rock Paper Scissors
 
@@ -380,7 +426,57 @@ Number: unknown
 - Kelp will try to reach out and tag the minnows as they run past. If a minnow
   is tagged by kelp, it also becomes kelp.
 
+## Two Truths and a Lie
+
+```
+Time: 10 minutes
+Materials: Lots of floor space for running
+Number: 6 - 10 people
+```
+
+> Ask all players to arrange themselves in a circle. Instruct each player to
+> think of three statements about themselves. Two must be true statements, and
+> one must be false. For each person, he or she shares the three statements (in
+> any order) to the group. The goal of the icebreaker game is to determine which
+> statement is false. The group votes on which one they feel is a lie, and at
+> the end of each round, the person reveals which one was the lie.
+
+Source: http://www.icebreakers.ws/small-group/two-truths-and-a-lie.html
+
+## Pterodactyl
+
+```
+Time: 4-6 minutes
+Materials: none
+```
+
+All players must begin by knowing that the point of the game is to keep their
+lips covering their teeth the whole time and never letting their teeth be seen
+or they are out! They must cover them with their lips at all times. (pull them
+over your teeth as you would if you were rubbing in lipstick.The game begins
+with everyone in a circle and one player saying "pterodactyl" then the player to
+the right of them says it and so on and so on.
+
+The catch is that any player can change the direction by screaming / screech as
+loud as they want or however they want just like a pterodactyl! This is when the
+game gets really fun and almost every person is laughing!
+
 ## Where The West Wind Blows
+
+## Zip Zap Zop
+
+```
+Time: 4 - 8 minutes
+Materials: none
+Number: unknown
+```
+
+Before the game, watch [this video](https://www.youtube.com/watch?v=lyWKVGoXKak):
+
+When explaining the game
+- Spend 15 seconds verbally explaining the game (but actually 15 seconds)
+- Then you want to SHOW the game. Grab 3 people and have to demo it like
+  [this](https://www.youtube.com/watch?v=vP-MI_in6Fc).
 
 # Introduction talk
 
@@ -704,6 +800,33 @@ Uniqueness is also important - no two people should be paired together again
 unless everyone has already been paired with each other. This will help members
 of the club all form bonds with each other.
 
+## Types of Pairing
+
+### Pair programming between beginner-advanced pairs
+
+Pair programming between beginner and advanced hackers is fairly similar to
+normal pair programming. They should still be rotating regularly. Do note: we've
+observed that advanced hackers often have the tendency to want to drive the
+coding completely.You may need to have to help them resist that urge by showing
+each hacker what they are getting out of it:
+
+For the advanced hacker:
+
+- True mastery of a subject can only come once someone is at the point they can
+  explain it to someone. If a hacker can't navigate while pairing, they dont
+  have an in-depth understanding of the topic.
+- This is practice in working with people who don't know as much
+  subject-specific information. Teaching this content to a beginning hacker is
+  practice for any future interaction with teammembers.
+- A team is only as strong as its weakest link. Helping teammembers gain more
+  experience and increase their knowledge can pay off later.
+
+For the beginning hacker:
+
+- Focusing only on the code is a good way to get familiar with syntax and build
+  up muscle memory.
+- Anytime the driver is lost, they can reach out to the navigator.
+
 # Workshops
 
 ## General Guidelines
@@ -719,7 +842,136 @@ doing one of the following:
   don't want to baby you so we won't remind you.
 - Something else that works best for you.
 
-## [Portfolio](workshops/portfolio)
+### Checking In To Every Hacker
+
+We want to make sure each hacker's energy level is high. One way to ensure
+that is to make sure that they're working on something that they're excited
+about.
+
+If a hacker is disengaged, that is the opposite of excited.
+
+One way to get a very disengaged hacker is that if
+
+- they are presented with material that is much easier than their skill level
+- or much harder.
+
+The much easier is much harder to detect for because if you ask them,
+
+> "Do you need help"
+
+They will say they don't. (Note that even though you ask someone who is very
+confused, they may say they don't need help as well because they are perhaps
+too afraid to ask for help or have already disengaged).
+
+Instead, the strategy for checking
+
+Here are some role playing scenes:
+
+```xml
+<facilitator> Are you good?
+<hacker> Yup.
+<facilitator> *walks to the next person*
+```
+
+The above interaction doesn't give you any perspective on how they are doing.
+The default answer is that they are good so most likely even if they aren't
+they will say the are good.
+
+```xml
+<facilitator> How are you doing? *seems like a more open ended question.
+<hacker> Yup.
+<facilitator> *walks to the next person*
+```
+
+Even though this wasn't a yes or no question, that data you get back is still
+pretty minimal. You have no idea what's actually going on. You want people to
+kinda ramble.
+
+```xml
+<facilitator> Hey how's it going?
+<hacker> Good.
+<facilitator> What are you working on now?
+<hacker> I'm working on the javascript
+<facilitator> *keeps pressing on to ask more questions*
+Oh, cool, which part are you working on?
+<hacker> I'm trying to get the button to work
+*amazing, we finally got some information that
+<facilitator> cool, what do you want to get it to do?
+<hacker> well, when I click it, this error comes up and I can't seem to find it
+```
+
+In the above interaction, you get a lot more data to diagnose with. Its like a
+doctor who sees a patient and the patient says fine and so the doctor walks
+away. Instead the doctor asks many different kinds of questions to trigger
+different possible reactions their patients.
+
+One amazing question is:
+
+- "Tell me more about that"
+
+This questions really lets you to get the other person to ramble and give
+you a lot of information.
+
+Other kinds of probing questions include:
+
+- "What's the thing that's taken you the longest?"
+- "What are somethings that have been the most confusing so far to you?"
+
+### Driving People to their Maximal Potential
+
+Each has different things that excite them and that they find challenging.
+
+People are not just ate different levels that each other, they are on different
+axis completely.
+
+Make sure you try to push people to their maximum potential, doing things that
+are hard enough for them / in something that they in particular are interested
+in.
+
+```xml
+<facilitator>
+  *notices that the hacker is kinda exhausted and is playing agar*
+  *decides to walk over*
+  Hey, how is it going.
+<facilitator>
+<hacker>
+  Oh hey, I'm just playing Agar
+</hacker>
+<facilitator>
+  Cool, how's the project going
+</facilitator>
+<hacker>
+  Well...
+</hacker>
+<facilitator>
+  How excited are you about the project?
+</facilitator>
+<hacker>
+  Yeah, its good...
+</hacker>
+<facilitator>
+  *notes that the hacker doesn't really care about what they are doing*
+  Hmmm, so I notice you're really into games. Want to try to to build Agar.
+</facilitator>
+<hacker>
+  Maybe?
+  *continues to play agar*
+</hacker>
+<facilitator>
+  *I might go and go away and check in with them later*
+  *after like 10 minutes*
+  Yo, so check some of these games out that people have made:
+  *shows demos*
+</facilitator>
+<hacker>
+  Whoah, this is awesome! Can I try?
+</hacker>
+
+```
+
+## Portfolio
+
+[Click me for link.](workshops/portfolio)
 
 ### Prerequisites
 
@@ -806,13 +1058,37 @@ so that people can see it on the screen as you demo it.
 - So you'll be learning how to combine HTML & Javascript in this one
 - Also, you'll be learning the fundamental aspects of computer science along the way
 - If you are very familiar with DOM manipulation and this is really easy for you, there's a section with a much more advanced version of what this instagram app could be. Take a look at that code, play around with it, and see if you can make it your own! Definitely don't force yourself to go through what you already know well! Warning: this code is not that simple.
-- It is your call if you want to demo this application (you may consider not demoing it to not demoralize the beginners)
-  - However, if you do demo it, here is the [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+- Demoing the advanced application
+  - [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+  - This should be inspiring to advanced and beginner hackers alike.
+    - Advanced hackers may feel they can build this and get excited.
+    - Beginning hackers will begin to see what's possible.
   - Step through the application as you demo
-    - open the application up in multiple windows
-    - enter all the phone numbers of all the students (have a listing of phone numbers prepared ahead of time so you can quickly copy and paste)
-    - go and upload a picture
-    - then do it from mobile too
+    1. The first step is to have a listing of phone numbers prepared ahead of
+       time so you can quickly copy and paste from them later.
+    2. Open the
+       [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+       up in two windows (not tabs, windows so that they can be seen side by
+       side).
+    3. Copy and paste all the phone numbers of all the students (have a listing
+       of phone numbers prepared ahead of time so you can quickly copy and
+       paste)
+    4. Copy two of of the students numbers into your mobile phone.
+    5. Now that you're setup, you're ready to make an announcement.
+    6. Tell all the students to turn their phones to loud.
+    7. Tell all the students to open
+       [live demo link](http://rawgit.com/hackedu/hack-camp/instagram/cohort_4/playbook/workshops/instagram/src/index.html)
+       on their computer.
+    8. Go and upload a picture
+    9. Tell the hackers the following:
+      - The app uses local storage to remember the phone numbers even after it
+        refreshes.
+      - The app uses the Dweet API to send pictures to all of their screens.
+    10. Then show that you can upload a picture from mobile as well by taking a
+        picture of the class.
+      - This will send the picture to two of the students whose names you've
+        type in earlier.
+      - This will also appear on the screen.
 
 ### Instagram Readme
 [Instagram Readme](workshops/instagram/README.md)
@@ -826,8 +1102,8 @@ so that people can see it on the screen as you demo it.
 Pull these links up in new tabs:
 
 - [Instagram Live Demo](http://output.jsbin.com/cacaqa)
-- http://i.imgur.com/uDCThVk.png
-- http://i.imgur.com/kPo7B3o.jpg
+- https://i.imgur.com/uDCThVk.png
+- https://i.imgur.com/kPo7B3o.jpg
 - [Messenger Live Demo](https://rawgit.com/hackedu/hack-camp/50b54d2436ff15679735ca5c8c50d7ee2ff7b744/cohort_4/playbook/workshops/messenger/src/index.html)
 
 #### Communicate the following to the hackers
@@ -906,6 +1182,9 @@ this would be somewhat functional and demonstrate base functionality.
   - Make sure to give context by explaining the basic overview of the app and
     why this is a failure
 - After presenting something they failed at, they can show off what they made
+  - We recommend encouraging teams to have everyone speak during the demo to
+    reinforce that projects are _team_ efforts and to give everyone on the team
+    explicit ownership
 
 ## Whiteboard information
 
@@ -935,7 +1214,7 @@ Before kicking off demos, we'll want to collect links to all of the web projects
 from the hackers in the Slack. To do just, just send out a message along the
 lines of the following:
 
-    3:20 PM <zrl> @channel: Hey all! The time has come to collect links to your
+    3:40 PM <zrl> @channel: Hey all! The time has come to collect links to your
                   projects. If you have a project that works on the web, please
                   just paste a link to it here. Don't hesitate to ask us for
                   help doing that!
@@ -966,19 +1245,9 @@ Common practices to avoid when demoing:
 8. Use the mouse pointer to point to what you say you changed but don't change
    anything.
 
-It may also be helpful to give an idea of what a demo may look like. The
-following contains a quick bullet point list overview.
-
-- Hey everyone! I'm Zach and I built Yelp for Yelp Reviews.
-- Yelp for Yelp Reviews is a _transformative_ application that empowers users to
-  rate, on a scale from 1 to 5, other reviews on Yelp.
-- Let's jump right into it and pull up the reviews for "Super Duper Burgers" in
-  San Francisco.
-- Ouch! This 3 star review says that they aren't a pickle person. I'm going to
-  do Super Duper justice and rate their review 1 out of 5.
-- And there we go! We can see that our rating was created and that original
-  review is now rated 1 out of 5.
-- And that's Yelp for Yelp Reviews! Thank you.
+It may be helpful to give an idea of what a demo may look like by showing one.
+In the past we've shown https://youtu.be/MY01d647S9Y to the hackers and gotten
+good results.
 
 ## Giving feedback
 
@@ -995,16 +1264,55 @@ shouted out after the demo.
 # Freeform Projects
 
 This assumes the hackers are already in groups and have decided what to work on.
-If they have not yet, refer to the [freeform projects](#freeform-projects)
-section.
+
+If they have not yet, refer to [project formation](#project-formation).
+
+## Scheduling
+
+- make sure to collect links 10 minutes before demos at around 3:50. make sure
+- you remind people of what time the demos is. It is very easy to forget to
+  mention the time.
+
+## Role Of The Organizer
+
+Walking the rope of how to be effective during this time period can be hard. On
+one hand, you want to actively help hackers. At the same time, you don't want to
+hover and so you stay back and let the hackers do their thing and work
+independently.
+
+You want them to ask questions abut at the same time you don't want them to ask
+you a question when they never searched for it themself yet.
+
+Being a good organizer is knowing when to step in, and when to hang back. If
+unsure, bias on the side of hanging back.
+
+Checkout the guidelines for [Answering Questions](#answering-questions).
 
 Every set of freeform time for projects culminates in a demo by the end of the
 day. See the [demo section](#demos) for more details, including what hackers are
 encouraged to have finished.
 
+*What NOT to do*
+
+- DO NOT drive the conversation
+- DO NOT just cause you notice the hackers doing something in a way that you
+  wouldn't do don't just start telling them they're wrong. Maybe you're wrong or
+  maybe you're both wrong.
+
+*What To Do*
+
+- DO checkout the guidelines for [Answering Questions](#answering-questions).
+- DO let the hackers drive the conversation
+- DO make sure that each person is challenging themselves to their personal
+  limits.
+- DO ask for feedback from the hackers constantly to see what things are
+  breaking especially when people aren't realizing.
+- DO remind the hackers of the link collection time as well as demo time
+
 ## Scoping and concept
 
-- Sometimes hackers will become too focused on a particular part of their project.
+- Sometimes hackers will become too focused on a particular part of their
+  project.
   - Make sure to remind them of their project's scope.
   - It is in their better interest to not focus on minor details because they
     have to finish before demos. They can continue working on details later. A
@@ -1051,6 +1359,10 @@ problems independently. If you think they'd have trouble finding the something
 on Google (ex. if they don't know about the existence of the JavaScript
 console and it's the tool they need), then feel free to explain it to them
 directly. Use your discretion for when to do this.
+
+Moreover, we recommend encouraging hackers to reach out to their peers for help.
+After Hack Camp, the facilitators will not be as accessible, but the hackers
+will still have access to peers with coding experience.
 
 Biasing for searching the web also works well if the hacker you're working with
 has more experience than you. We've found that going in with the mindset of
@@ -1105,14 +1417,18 @@ what we recommend answering questions should look like.
 
 # Project Formation
 
-In the workshop / projects model, three quaters of a hacker's time is spent on
+In the workshop / projects model, three quarters of a hacker's time is spent on
 their projects. Project formation sets the foundation of a good project.
 
 Here are the steps to project formation:
 
-1. Forming groups [2 mins]
+(_we recommend doing each of the below for things each time_)
+
+1. Forming groups [2 minutes]
 2. Yes-and sessions [5 minutes]
-3. Brainstorming [23 mins]
+3. Brainstorming [23 minutes]
+  1. Part 1: Generating Ideas [13 minutes]
+  2. Part 2: Filtering Ideas [10 minutes]
 
 ## Forming groups
 
@@ -1156,6 +1472,9 @@ Time: 5 mins
 Materials: The spreadsheet with the pairings you've made in it
 ```
 
+_Note this activity can certianly get a little old if done repeatedly so feel
+free to insert your own favorite improv activity that has a similar effect
+here._
 
 - One of the biggest inhibitors to a successful brainstorming session (instructions
   on how to run brainstorming below) is that people turn down the ideas of
@@ -1377,15 +1696,21 @@ An explanation of what this field is in day 1's feedback form (linked below).
 All of the feedback form responses will be put into the appropriate sheet in
 https://docs.google.com/spreadsheets/d/1D8y_UB11C4QrXB9kn86-UqVQQqT9FUDqftx1AMHIb3o.
 
-| Day | Link                                                                                         |
-| --- | -------------------------------------------------------------------------------------------- |
-|   1 | https://docs.google.com/a/zachlatta.com/forms/d/1FTBlvJdXRyfPyGheR3Sm6xWu1PQSMTNkZxPkC3jp0G4 |
-|   2 | https://docs.google.com/a/zachlatta.com/forms/d/1_9K3b4Nwgn3-mFqMrrUObwiMHt_53y9LVNyCQAULn7I |
-|   3 | https://docs.google.com/a/zachlatta.com/forms/d/1kgCrsPuTFJ-404JdpFo3acomXmwvTIOJHXzOp_NoUeI |
-|   4 | https://docs.google.com/a/zachlatta.com/forms/d/1ASfJdmXGUVRdGJR6rmzedDQ2EDEL7Hc11JD0xjBJMp8 |
-|   5 | https://docs.google.com/a/zachlatta.com/forms/d/1QL1IM9xi2GcU71Rr9dihDpJItRAsl9aA2mkH7jM2lm8 |
-|   6 | https://docs.google.com/a/zachlatta.com/forms/d/1y7WLP55aigI7Kf90wiy9z41xnqem-ltmT0myXJINzH0 |
-|   6 | https://docs.google.com/a/zachlatta.com/forms/d/15xAMDQmt4kCTCnbe9nZMqv5XUCIsxYaRMGEgLQNTNXI |
+| Day  | Link                                                                                         |
+| ---- | -------------------------------------------------------------------------------------------- |
+|   1  | https://docs.google.com/a/zachlatta.com/forms/d/1FTBlvJdXRyfPyGheR3Sm6xWu1PQSMTNkZxPkC3jp0G4 |
+|   2  | https://docs.google.com/a/zachlatta.com/forms/d/1_9K3b4Nwgn3-mFqMrrUObwiMHt_53y9LVNyCQAULn7I |
+|   3  | https://docs.google.com/a/zachlatta.com/forms/d/1kgCrsPuTFJ-404JdpFo3acomXmwvTIOJHXzOp_NoUeI |
+|   4  | https://docs.google.com/a/zachlatta.com/forms/d/1ASfJdmXGUVRdGJR6rmzedDQ2EDEL7Hc11JD0xjBJMp8 |
+|   5  | https://docs.google.com/a/zachlatta.com/forms/d/1QL1IM9xi2GcU71Rr9dihDpJItRAsl9aA2mkH7jM2lm8 |
+|   6  | https://docs.google.com/a/zachlatta.com/forms/d/1y7WLP55aigI7Kf90wiy9z41xnqem-ltmT0myXJINzH0 |
+|   7  | https://docs.google.com/a/zachlatta.com/forms/d/15xAMDQmt4kCTCnbe9nZMqv5XUCIsxYaRMGEgLQNTNXI |
+|   8  | https://docs.google.com/a/zachlatta.com/forms/d/1bIkPi1IWIf34WXMHxivQDOqCWBIOq2SVUl_OFw2e_9c |
+|   9  | https://docs.google.com/a/zachlatta.com/forms/d/1LFVzviI9GDuxLTpOPWy9jNmImhmW0NisAMC0ocBJzIg |
+|  10  | https://docs.google.com/a/zachlatta.com/forms/d/1SAcCBYcr8qpzXjCWLlbeeilZUObBROR-EZh0WRTguLE |
+|  10+ | https://docs.google.com/a/hackmatch.com/forms/d/1C04DICTvylS_sDutVkzwe-e-MgxzABp9PGC0XPZVCkA |
+
+_`10+` is a post-camp questionnaire that should also be issued on the final day._
 
 # Finishing off the day
 

@@ -91,7 +91,7 @@ document.getElementById('button').onclick = function() {
 };
 ```
 
-[![](http://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1)
+[![](https://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1)
 
 #### Step 4: Cleaning Up For Understanding
 
@@ -111,7 +111,7 @@ document.getElementById('button').onclick = function() {
 };
 ```
 
-[![](http://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1609/)
+[![](https://i.imgur.com/9KuKZGN.png)](http://jsfiddle.net/6qDap/1609/)
 
 ##### Step 5: Tinkering for Understanding
 
@@ -188,7 +188,6 @@ And I open the first 3 pages in new tabs:
 I think this means that I put my code where it says 
 `// your code`
 but I'm not necessarily sure what code needs to be in here.
-
 
 ##### Analyzing the [2nd Google Result](http://stackoverflow.com/questions/17080502/uncaught-typeerror-cannot-set-property-onclick-of-null)
 - the title "Uncaught TypeError: Cannot set property 'onclick' of null" is relevant 
